@@ -1,0 +1,10 @@
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe.config
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\bin\Debug\Text_Editor.exe
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\bin\Debug\Text_Editor.pdb
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\bin\Debug\Text_Editor.xml
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Form1.resources
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\obj\Debug\Text_Editor.Resources.resources
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\obj\Debug\Text_Editor.vbproj.GenerateResource.Cache
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\obj\Debug\Text_Editor.exe
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\obj\Debug\Text_Editor.xml
+E:\College\2nd year 4th sem\software lab\Project\Text_Editor\Text_Editor\obj\Debug\Text_Editor.pdb
