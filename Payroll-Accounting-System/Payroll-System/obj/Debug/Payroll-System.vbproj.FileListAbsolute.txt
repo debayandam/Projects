@@ -1,0 +1,14 @@
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\bin\Debug\Payroll-System.exe.config
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\bin\Debug\Payroll-System.exe
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\bin\Debug\Payroll-System.pdb
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\bin\Debug\Payroll-System.xml
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\obj\Debug\Payroll_System.Form1.resources
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\obj\Debug\Payroll_System.Resources.resources
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\obj\Debug\Payroll-System.vbproj.GenerateResource.Cache
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\obj\Debug\Payroll-System.exe
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\obj\Debug\Payroll-System.xml
+E:\College\2nd year 4th sem\software lab\Project\Payroll-System\Payroll-System\obj\Debug\Payroll-System.pdb
+E:\College\2nd year 4th sem\software lab\Project\Payroll-Accounting-System\Payroll-System\bin\Debug\Payroll-System.exe.config
+E:\College\2nd year 4th sem\software lab\Project\Payroll-Accounting-System\Payroll-System\obj\Debug\Payroll-System.exe
+E:\College\2nd year 4th sem\software lab\Project\Payroll-Accounting-System\Payroll-System\obj\Debug\Payroll-System.xml
+E:\College\2nd year 4th sem\software lab\Project\Payroll-Accounting-System\Payroll-System\obj\Debug\Payroll-System.pdb
