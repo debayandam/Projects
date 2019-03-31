@@ -1,0 +1,20 @@
+Online_Job_Portal.mdf
+CREATE TABLE [dbo].[Sign_Up] (
+    [Id]       INT          IDENTITY (1, 1) NOT NULL,
+    [Name]     VARCHAR (50) NOT NULL,
+    [Mobile]   BIGINT       NOT NULL,
+    [Email]    VARCHAR (50) NOT NULL,
+    [Address]  VARCHAR (50) NOT NULL,
+    [Password] INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+
+CREATE TABLE [dbo].[Record1] (
+    [Id]          INT           IDENTITY (1, 1) NOT NULL,
+    [Description] VARCHAR (MAX) NULL,
+    [CV]          VARCHAR (MAX) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

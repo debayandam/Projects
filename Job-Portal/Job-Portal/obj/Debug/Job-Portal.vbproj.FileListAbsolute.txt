@@ -1,0 +1,15 @@
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\bin\Debug\Job-Portal.exe.config
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\bin\Debug\Job-Portal.exe
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\bin\Debug\Job-Portal.pdb
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\bin\Debug\Job-Portal.xml
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.Resources.resources
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job-Portal.vbproj.GenerateResource.Cache
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job-Portal.exe
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job-Portal.xml
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job-Portal.pdb
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.Fmain.resources
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.jobs.resources
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.login.resources
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.Register.resources
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.admin.resources
+E:\College\2nd year 4th sem\software lab\Project\Job-Portal\Job-Portal\obj\Debug\Job_Portal.enter_jobs.resources
